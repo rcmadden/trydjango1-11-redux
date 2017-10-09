@@ -1,0 +1,8 @@
+src/muypicky_clone/settings/secrets.py
+src/db.sqlite3
+.idea/misc.xml
+.idea/modules.xml
+.idea/trydjango1-11-redux.iml
+.idea/workspace.xml
+muypicky_clone.sublime-project
+muypicky_clone.sublime-workspace
